@@ -5,12 +5,12 @@ On this page, you find the software and the data that I used for my talk at the
 
 ## The analysis software
 
-Here is the analysis script that I used for the measurements:
-
-[Download (~700 KB)](http://sebastian-schinzel.de/29c3/data/analysis-tool.tgz)
+In the [analysis-tool](/analysis-tool) folder you will find the analysis script
+that I used for the measurements.
 
 At the core of the analysis script is the library
-[mona-timing-lib](https://github.com/seecurity/mona-timing-lib).
+[mona-timing-report](https://github.com/seecurity/mona-timing-report)
+(previously known as [fau-timer](https://code.google.com/p/fau-timer/)).
 
 Below you find the script that I used to measure the performance impact of
 [Dan Kaminsky's tc timing mitigation proposal (slide 13)](http://dankaminsky.com/2012/08/06/bo2012/):
@@ -25,7 +25,7 @@ Below you find the download link to the datasets:
 
 ## Media
 
-Download the slides [here](http://sebastian-schinzel.de/29c3/download/29c3-schinzel.pdf).
+Download the slides [here](/slides.pdf?raw=true).
 
 Watch the talk at [Youtube](https://www.youtube.com/watch?v=V3fzl4NbnF0).
 
