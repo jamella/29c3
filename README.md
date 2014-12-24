@@ -12,10 +12,9 @@ At the core of the analysis script is the library
 [mona-timing-report](https://github.com/seecurity/mona-timing-report)
 (previously known as [fau-timer](https://code.google.com/p/fau-timer/)).
 
-Below you find the script that I used to measure the performance impact of
-[Dan Kaminsky's tc timing mitigation proposal (slide 13)](http://dankaminsky.com/2012/08/06/bo2012/):
-
-[Download (~1 KB)](http://sebastian-schinzel.de/29c3/data/dakami.tgz)
+In the [dakami](/dakami) folder you will find the script that I used to measure
+the performance impact of
+[Dan Kaminsky's tc timing mitigation proposal (slide 13)](http://dankaminsky.com/2012/08/06/bo2012/).
 
 ## The datasets
 
