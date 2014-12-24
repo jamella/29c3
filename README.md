@@ -35,7 +35,7 @@ E-Mail: [Please_click_the_link_@seecurity.org](http://tinyurl.com/bowcuqq)
 
 Find me at
 
-* Twitter
-* University of Erlangen
-* Xing
-* Linkedin
+* [Twitter](http://twitter.com/seecurity)
+* [University of Erlangen](http://www1.informatik.uni-erlangen.de/staff/schinzel)
+* [Xing](https://www.xing.com/profile/Sebastian_Schinzel)
+* [Linkedin](http://www.linkedin.com/in/seecurity)
