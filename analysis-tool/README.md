@@ -45,8 +45,7 @@ The `config.ini` sets the parameter of the Reporting Tool. It replaces the defau
 - The first column is an identifier, they must be distinct.
 - The second column is reserved by the secrets.
 - The third column should be the time measurement of the secret in this row.
-- Example:
-```45;valid;75487
+- Example:```45;valid;75487
 46;invalid;75895
 47;valid;76534
 ...```
