@@ -18,9 +18,11 @@ $ java -cp .:bin:ReportingTool.jar de/fau/pi1/timerReporter/api/usage/Main
 ```$ ant```
 
 ## How to use the Reporting Tool
-- to inform about the optional parameter of the Reporting Tool look into the help: ```$ java -jar ReportingTool.jar -help```
+- to inform about the optional parameter of the Reporting Tool look into the help:
+```$ java -jar ReportingTool.jar -help```
 
-- to start the Reporting Tool with default parameter: ```$ java -jar ReportingTool.jar --inputFile=/path/to/file --name=NameofMeasurement```
+- to start the Reporting Tool with default parameter:
+```$ java -jar ReportingTool.jar --inputFile=/path/to/file --name=NameofMeasurement```
 
 
 ## Default parameter
